@@ -191,7 +191,6 @@ cython_debug/
 
 # mkdocs documentation
 checkpoints**/
-figures**/
 results**/
 logs**/
 data**/
