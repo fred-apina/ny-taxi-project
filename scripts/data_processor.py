@@ -99,7 +99,7 @@ class DataManipulator(DataLoader):
 
     def _convert_features(self):
         """
-        Converts the datetime columns to datetime type and the categorical columns to category type.
+        Convert columns to appropriate data types and create trip_duration column.
         """
         try:
             # Convert datetime columns to datetime type
