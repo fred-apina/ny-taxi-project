@@ -126,7 +126,7 @@ python main.py
 ### 2. Start the Interactive Dashboard
 ```bash
 # From the project root directory
-cd project_codes/dashboard
+cd project_codes/python_scripts/dashboard
 streamlit run dashboard.py
 ```
 
