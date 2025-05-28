@@ -1,0 +1,2 @@
+model_name,task_type,best_params,Accuracy,Precision,Recall,F1 Score
+DecisionTreeClassifier,classification,"{'max_depth': '10', 'min_samples_leaf': '2', 'min_samples_split': '5'}",0.9785680128678867,0.935012365179047,0.8258874623971918,0.8592566590438196

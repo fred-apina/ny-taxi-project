@@ -1,0 +1,6 @@
+model_name,task_type,fold_id,params_tried,Accuracy,Precision,Recall,F1 Score
+DecisionTreeClassifier,classification,1,"{'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}",0.981289868903511,0.9292045668628408,0.8697447640510958,0.8943865509756486
+DecisionTreeClassifier,classification,2,"{'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}",0.983324124767693,0.9531176234846074,0.8947982981055369,0.9192510034820138
+DecisionTreeClassifier,classification,3,"{'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}",0.9832236676879803,0.9395781830530868,0.9244712768460749,0.9317275540093856
+DecisionTreeClassifier,classification,4,"{'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}",0.9822944397006379,0.9494874615869644,0.8924228539057389,0.9164513862182966
+DecisionTreeClassifier,classification,5,"{'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 5}",0.9835250389271184,0.9519281434332314,0.9040478094170695,0.9250277284162416

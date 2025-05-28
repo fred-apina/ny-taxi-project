@@ -1,0 +1,2 @@
+model_name,task_type,best_params,MSE,RMSE,MAE,R2 Score
+BaggingRegressor,regression,"{'bootstrap': 'True', 'bootstrap_features': 'True', 'max_features': '0.7', 'max_samples': '0.5', 'n_estimators': '50'}",8.783737329666142,2.9637370547445907,1.567304702140133,0.9260923639149947

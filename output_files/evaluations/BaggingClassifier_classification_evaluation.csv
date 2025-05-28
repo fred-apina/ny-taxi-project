@@ -1,0 +1,2 @@
+model_name,task_type,best_params,Accuracy,Precision,Recall,F1 Score
+BaggingClassifier,classification,"{'bootstrap': 'True', 'bootstrap_features': 'False', 'max_samples': '0.5', 'n_estimators': '50'}",0.9784375950962918,0.9095800233607934,0.8349692994505064,0.8605768939657593

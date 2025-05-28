@@ -1,0 +1,2 @@
+model_name,task_type,best_params,Accuracy,Precision,Recall,F1 Score
+DeepLearningClassifier,classification,"{'units_layer1': '64', 'batch_size': '64', 'learning_rate': '0.001'}",0.973802614847902,0.7590822955729006,0.7615039300340833,0.7600188992726638

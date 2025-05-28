@@ -193,6 +193,7 @@ cython_debug/
 checkpoints**/
 results**/
 logs**/
-data**/
+# data**/
 
-data/
+data/2019/
+data/processed/

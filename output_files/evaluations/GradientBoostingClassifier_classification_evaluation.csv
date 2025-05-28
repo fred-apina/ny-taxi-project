@@ -1,0 +1,2 @@
+model_name,task_type,best_params,Accuracy,Precision,Recall,F1 Score
+GradientBoostingClassifier,classification,"{'learning_rate': '0.05', 'max_depth': '5', 'n_estimators': '100'}",0.9780028691909751,0.830056803101302,0.839898223538294,0.8348642733797448

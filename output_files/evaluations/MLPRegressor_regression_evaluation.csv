@@ -1,0 +1,2 @@
+model_name,task_type,best_params,MSE,RMSE,MAE,R2 Score
+MLPRegressor,regression,"{'activation': 'relu', 'alpha': '0.01', 'early_stopping': 'True', 'hidden_layer_sizes': '(50,)', 'learning_rate_init': '0.001', 'n_iter_no_change': '10', 'validation_fraction': '0.2'}",242.56118274516103,15.574375838060446,1.4139092208598427,-0.9631751026445672

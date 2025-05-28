@@ -1,0 +1,2 @@
+model_name,task_type,best_params,MSE,RMSE,MAE,R2 Score
+DecisionTreeRegressor,regression,"{'criterion': 'squared_error', 'max_depth': '7', 'max_features': '0.7', 'min_samples_leaf': '5', 'min_samples_split': '20'}",6.7422917205910515,2.596592328531965,0.8938746453114508,0.9432693824778424

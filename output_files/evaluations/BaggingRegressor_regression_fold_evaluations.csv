@@ -1,0 +1,6 @@
+model_name,task_type,fold_id,params_tried,MSE,RMSE,MAE,R2 Score
+BaggingRegressor,regression,1,"{'bootstrap': True, 'bootstrap_features': True, 'max_features': 0.7, 'max_samples': 0.5, 'n_estimators': 50}",8.350216529916268e-05,0.009137951920379242,0.005224558274888188,0.9346867034210619
+BaggingRegressor,regression,2,"{'bootstrap': True, 'bootstrap_features': True, 'max_features': 0.7, 'max_samples': 0.5, 'n_estimators': 50}",0.00010696773526799556,0.01034252074051561,0.005232116961157784,0.9215710291608233
+BaggingRegressor,regression,3,"{'bootstrap': True, 'bootstrap_features': True, 'max_features': 0.7, 'max_samples': 0.5, 'n_estimators': 50}",8.186000361336521e-05,0.009047651828699267,0.0051818420776822095,0.9378924454333395
+BaggingRegressor,regression,4,"{'bootstrap': True, 'bootstrap_features': True, 'max_features': 0.7, 'max_samples': 0.5, 'n_estimators': 50}",9.453150910694617e-05,0.009722731566126167,0.005219178759659187,0.9291306857817851
+BaggingRegressor,regression,5,"{'bootstrap': True, 'bootstrap_features': True, 'max_features': 0.7, 'max_samples': 0.5, 'n_estimators': 50}",8.236714514139e-05,0.009075634696338875,0.0052052661917582465,0.9342010569380018

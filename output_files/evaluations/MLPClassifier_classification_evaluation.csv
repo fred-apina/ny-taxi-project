@@ -1,0 +1,2 @@
+model_name,task_type,best_params,Accuracy,Precision,Recall,F1 Score
+MLPClassifier,classification,"{'activation': 'tanh', 'alpha': '0.0001', 'early_stopping': 'True', 'hidden_layer_sizes': '(50, 25)', 'learning_rate_init': '0.001'}",0.9785245402773551,0.899991502505782,0.8298228822751592,0.8537505344174452

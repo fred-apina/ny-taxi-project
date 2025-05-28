@@ -1,0 +1,6 @@
+model_name,task_type,fold_id,params_tried,Accuracy,Precision,Recall,F1 Score
+GradientBoostingClassifier,classification,1,"{'learning_rate': 0.05, 'max_depth': 5, 'n_estimators': 100}",0.9833994675774775,0.9263758257125938,0.8971989416488757,0.9106485125114167
+GradientBoostingClassifier,classification,2,"{'learning_rate': 0.05, 'max_depth': 5, 'n_estimators': 100}",0.9846551810738862,0.9140568023184233,0.9391488962176515,0.9258276175838637
+GradientBoostingClassifier,classification,3,"{'learning_rate': 0.05, 'max_depth': 5, 'n_estimators': 100}",0.9845044954543172,0.9333835333775916,0.9565426984022044,0.9442516468204931
+GradientBoostingClassifier,classification,4,"{'learning_rate': 0.05, 'max_depth': 5, 'n_estimators': 100}",0.98405243859561,0.9484172000945441,0.9039445190864382,0.9232660719341932
+GradientBoostingClassifier,classification,5,"{'learning_rate': 0.05, 'max_depth': 5, 'n_estimators': 100}",0.9853332663619468,0.9548810120872336,0.9336691501453471,0.9437256813800953

@@ -1,0 +1,6 @@
+model_name,task_type,fold_id,params_tried,MSE,RMSE,MAE,R2 Score
+DecisionTreeRegressor,regression,1,"{'criterion': 'squared_error', 'max_depth': 7, 'max_features': 0.7, 'min_samples_leaf': 5, 'min_samples_split': 20}",4.79056295992286e-05,0.006921389282451075,0.0027280474726108137,0.9625294196551026
+DecisionTreeRegressor,regression,2,"{'criterion': 'squared_error', 'max_depth': 7, 'max_features': 0.7, 'min_samples_leaf': 5, 'min_samples_split': 20}",5.814894195010083e-05,0.007625545354274724,0.002765125064303729,0.9573650721770685
+DecisionTreeRegressor,regression,3,"{'criterion': 'squared_error', 'max_depth': 7, 'max_features': 0.7, 'min_samples_leaf': 5, 'min_samples_split': 20}",3.367193986743211e-05,0.005802752783587468,0.0026539447473201286,0.9744529471002807
+DecisionTreeRegressor,regression,4,"{'criterion': 'squared_error', 'max_depth': 7, 'max_features': 0.7, 'min_samples_leaf': 5, 'min_samples_split': 20}",4.501336627929889e-05,0.006709200122167983,0.0024628765084469075,0.9662539355501221
+DecisionTreeRegressor,regression,5,"{'criterion': 'squared_error', 'max_depth': 7, 'max_features': 0.7, 'min_samples_leaf': 5, 'min_samples_split': 20}",4.257907239639482e-05,0.0065252641629588316,0.002400902561263533,0.9659857342944956

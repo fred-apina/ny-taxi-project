@@ -1,0 +1,2 @@
+model_name,task_type,best_params,MSE,RMSE,MAE,R2 Score
+GradientBoostingRegressor,regression,"{'learning_rate': '0.1', 'max_depth': '3', 'max_features': '0.5', 'n_estimators': '100', 'subsample': '0.8'}",4.785485987714123,2.187575367322032,0.5653319138493268,0.9597342288828086

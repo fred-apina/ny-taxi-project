@@ -1,0 +1,6 @@
+model_name,task_type,fold_id,params_tried,MSE,RMSE,MAE,R2 Score
+GradientBoostingRegressor,regression,1,"{'learning_rate': 0.1, 'max_depth': 3, 'max_features': 0.5, 'n_estimators': 100, 'subsample': 0.8}",2.818755468820418e-05,0.005309195295730247,0.0014765551671917663,0.9779524026402202
+GradientBoostingRegressor,regression,2,"{'learning_rate': 0.1, 'max_depth': 3, 'max_features': 0.5, 'n_estimators': 100, 'subsample': 0.8}",4.242251017954406e-05,0.006513256495758789,0.001458336216957933,0.968895725374943
+GradientBoostingRegressor,regression,3,"{'learning_rate': 0.1, 'max_depth': 3, 'max_features': 0.5, 'n_estimators': 100, 'subsample': 0.8}",2.0644245164857766e-05,0.004543593860025097,0.0014294595142960995,0.9843371179273368
+GradientBoostingRegressor,regression,4,"{'learning_rate': 0.1, 'max_depth': 3, 'max_features': 0.5, 'n_estimators': 100, 'subsample': 0.8}",3.524913061985725e-05,0.005937097828051787,0.0014938860638140413,0.973574084054964
+GradientBoostingRegressor,regression,5,"{'learning_rate': 0.1, 'max_depth': 3, 'max_features': 0.5, 'n_estimators': 100, 'subsample': 0.8}",2.7107916562719548e-05,0.005206526343227272,0.0014467377787939597,0.9783448575839558

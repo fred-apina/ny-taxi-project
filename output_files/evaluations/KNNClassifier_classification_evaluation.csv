@@ -1,0 +1,2 @@
+model_name,task_type,best_params,Accuracy,Precision,Recall,F1 Score
+KNNClassifier,classification,{'k': '7'},0.9774377255140634,0.9342591697488796,0.8258246833035904,0.8588416434667795

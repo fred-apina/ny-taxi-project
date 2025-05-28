@@ -1,0 +1,2 @@
+model_name,task_type,best_params,MSE,RMSE,MAE,R2 Score
+KNNRegressor,regression,{'k': '7'},7.840705816011577,2.8001260357368873,0.4904159084839868,0.9340271674401956

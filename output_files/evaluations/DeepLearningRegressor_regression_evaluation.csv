@@ -1,0 +1,2 @@
+model_name,task_type,best_params,MSE,RMSE,MAE,R2 Score
+DeepLearningRegressor,regression,"{'units_layer1': '32', 'batch_size': '32', 'learning_rate': '0.0001'}",689.9637127040086,26.267160347171306,3.0782425138784073,-4.584238859569713

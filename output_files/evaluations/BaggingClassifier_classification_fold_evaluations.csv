@@ -1,0 +1,6 @@
+model_name,task_type,fold_id,params_tried,Accuracy,Precision,Recall,F1 Score
+BaggingClassifier,classification,1,"{'bootstrap': True, 'bootstrap_features': False, 'max_samples': 0.5, 'n_estimators': 50}",0.981867497111859,0.9516493771320486,0.9052834577360688,0.925773673581002
+BaggingClassifier,classification,2,"{'bootstrap': True, 'bootstrap_features': False, 'max_samples': 0.5, 'n_estimators': 50}",0.9827716108292732,0.9416590801250493,0.9229958175516548,0.9317858759556537
+BaggingClassifier,classification,3,"{'bootstrap': True, 'bootstrap_features': False, 'max_samples': 0.5, 'n_estimators': 50}",0.9829725249886986,0.9479431331379384,0.952333611058026,0.9501047701987114
+BaggingClassifier,classification,4,"{'bootstrap': True, 'bootstrap_features': False, 'max_samples': 0.5, 'n_estimators': 50}",0.982319553970566,0.9633810100811512,0.9110434352336911,0.9337173610454674
+BaggingClassifier,classification,5,"{'bootstrap': True, 'bootstrap_features': False, 'max_samples': 0.5, 'n_estimators': 50}",0.9832487819579084,0.9582117108047736,0.9224173930891328,0.9387804685616226

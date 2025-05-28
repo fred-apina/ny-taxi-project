@@ -1,0 +1,6 @@
+model_name,task_type,fold_id,params_tried,Accuracy,Precision,Recall,F1 Score
+MLPClassifier,classification,1,"{'activation': 'tanh', 'alpha': 0.0001, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001}",0.9831734391481239,0.9602276766791695,0.8875140708467673,0.9168950338221051
+MLPClassifier,classification,2,"{'activation': 'tanh', 'alpha': 0.0001, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001}",0.9846551810738862,0.9391017867827698,0.9100391697854748,0.9231113222519411
+MLPClassifier,classification,3,"{'activation': 'tanh', 'alpha': 0.0001, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001}",0.9845296097242453,0.931047602016611,0.9657228346459422,0.9468459263193095
+MLPClassifier,classification,4,"{'activation': 'tanh', 'alpha': 0.0001, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001}",0.98405243859561,0.9497148610637693,0.9205577417147353,0.9340984807163397
+MLPClassifier,classification,5,"{'activation': 'tanh', 'alpha': 0.0001, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001}",0.9845044954543172,0.9553479513003483,0.8883766251502494,0.9151777331286053
